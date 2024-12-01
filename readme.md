@@ -1,1 +1,1 @@
-# Paris free toilets
+# Paris free toilets map
