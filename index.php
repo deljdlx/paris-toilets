@@ -1,14 +1,5 @@
 <?php
-
 $json = json_decode(file_get_contents(__DIR__ . '/toilets.json'), true);
-
-// echo '<div style="border: solid 2px #F00">';
-//     echo '<div style="; background-color:#CCC">@'.__FILE__.' : '.__LINE__.'</div>';
-//     echo '<pre style="background-color: rgba(255,255,255, 0.8); color: #000">';
-//     print_r($json);
-//     echo '</pre>';
-// echo '</div>';
-
 ?>
 
 <!DOCTYPE html>
